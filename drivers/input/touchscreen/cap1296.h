@@ -1,3 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
+/*
+ * Copyright (c) 2024 Qualcomm Innovation Center, Inc. All rights reserved.
+ */
+
 #ifndef _LINUX_INPUT_CAP1296_H_
 #define _LINUX_INPUT_CAP1296_H_
 
